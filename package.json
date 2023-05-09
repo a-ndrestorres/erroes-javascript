@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "winston": "^3.8.2"
+  },
+  "name": "ejercicio-sesion-09",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
